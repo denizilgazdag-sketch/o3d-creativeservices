@@ -1,13 +1,13 @@
-
 export interface ProjectQuote {
   name: string;
   email: string;
+  orderType: string;
   projectName: string;
   description: string;
   material: string;
   finish: string;
   quantity: number;
-  deliveryType: 'Standard' | 'Express';
+  deliveryType: string;
   shippingAddress: string;
 }
 
@@ -22,5 +22,6 @@ export enum MaterialType {
   PETG = 'PETG (Durable)',
   Resin = 'Resin (High Detail)',
   ABS = 'ABS (Industrial)',
-  TPU = 'TPU (Flexible)'
+  TPU = 'TPU (Flexible)',
+  Other = 'Help me choose / Other'
 }

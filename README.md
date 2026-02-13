@@ -1,15 +1,16 @@
 
 # O3D Creative Services
 
-A creative 3D modeling and printing studio based in London, serving the world.
+A creative 3D modeling and printing studio based in London, serving the local community.
 
 ## 🚀 Overview
 O3D is a modern web application designed for a 3D printing lab. It features an AI-powered project analysis tool that helps customers understand the complexity and material requirements of their ideas before they even send a request.
 
 ## ✨ Key Features
 - **AI Project Consultant:** Integration with Google Gemini for technical advice.
-- **Dynamic Quote Form:** Collects all necessary details for 3D modeling and printing.
+- **Dynamic Order Form:** Collects all necessary details for 3D modeling and printing.
 - **Premium Portfolio:** High-quality showcase of London-made creations.
+- **London Local:** Optimized for local delivery and pickup within the city.
 - **Full Responsive:** Elegant design on mobile, tablet, and desktop.
 
 ## 🛠 Tech Stack
